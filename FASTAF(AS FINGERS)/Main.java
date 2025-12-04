@@ -5,7 +5,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         // default music
-        MusicPlayerLoop.playMusic("Game Corner.wav");
+        MusicPlayerLoop.playMusic("Watermelon Battle.wav");
 
         while (true) {
             System.out.println("\n=== WELCOME TO FASTAF(AS FINGERS) ===");
