@@ -1,9 +1,11 @@
 # DAMAVY
 
 
-FASTAF(AS FINGERS) PROGRAM
-OOP Concepts in My Project
+FAST AF(AS FINGERS) PROGRAM
 
+Description: This console-based typing game helps users, especially students in IT-related fields, improve their typing skills. It includes user registration and login to track progress over time, and it measures accuracy, total words typed, and WPM. Players can choose difficulty levels (Easy–Hard), typing modes (30/60-second timed mode or endless mode), and customize their experience with background music, preferred language (English or Filipino), and typing topics drawn from various media. Users can also enter their name to appear on a ranking chart. After each session, the system displays typing performance results, either when the time runs out or when the user finishes early.
+
+OOP Concepts in this Project:
 
 1. Encapsulation
 
