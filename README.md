@@ -25,7 +25,7 @@ Abstraction means hiding complex code behind simple method calls.
 
 Examples:
 
-MusicPlayerLoop.playMusic("Game Corner.wav");
+MusicPlayerLoop.playMusic("Watermelon Battle.wav");
 TypingSpeedTest.startTypingGame();
 
 
