@@ -1,4 +1,16 @@
 # DAMAVY
+
+
+
+
+
+📂 src/
+└── 📂 diaryapp/
+    ├── ☕ Main.java          
+    ├── ☕ Typingspeedtest.java
+    └── ☕ MusicPlayerLoop.java
+
+
 FASTAF(AS FINGERS) PROGRAM
 OOP Concepts in My Project
 
