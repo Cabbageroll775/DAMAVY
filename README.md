@@ -13,11 +13,16 @@
 
 ## ⊹˚₊‧ Project Structure
 ```
-    📂 `src/erds`
+    📂 `FASTAF(AS FINGERS)`
+    ├── ☕ `Almost There.wav`
     ├── ☕ `Main.java`
-    ├── ☕ `CRUD_Function.java`
-    ├── ☕ `Report.java`
-    ├── ☕ `File_Handling.java`
+    ├── ☕ `MusicPlayerLoop.java`
+    ├── ☕ `Sardonyxs Theme.wav`
+    ├── ☕ `TypingSpeedTest.java`
+    ├── ☕ `Watermelon Battle.wav`
+    ├── ☕ `Watermelon Steven.wav`
+```
+
    
 
 𝐅𝐀𝐒𝐓 𝐀𝐅(𝐀𝐒 𝐅𝐈𝐍𝐆𝐄𝐑𝐒) 𝐏𝐑𝐎𝐆𝐑𝐀𝐌
