@@ -23,7 +23,9 @@
     ├── ☕ `Watermelon Steven.wav`
 ```
 
-   
+**Main.java** — Entry point of the program; handles main menu.  
+**MusicPLayerLoop.java** — Handles the background music loop and also where you can change what music to play .  
+**TypingSpeedTest.java** — Where it handles the game.It counts how many word per minute and also how accurate you typed the sentence .  
 
 𝐅𝐀𝐒𝐓 𝐀𝐅(𝐀𝐒 𝐅𝐈𝐍𝐆𝐄𝐑𝐒) 𝐏𝐑𝐎𝐆𝐑𝐀𝐌
 
