@@ -8,6 +8,18 @@
 </p>
 
 
+
+
+
+## ⊹˚₊‧ Project Structure
+```
+    📂 `src/erds`
+    ├── ☕ `Main.java`
+    ├── ☕ `CRUD_Function.java`
+    ├── ☕ `Report.java`
+    ├── ☕ `File_Handling.java`
+   
+
 𝐅𝐀𝐒𝐓 𝐀𝐅(𝐀𝐒 𝐅𝐈𝐍𝐆𝐄𝐑𝐒) 𝐏𝐑𝐎𝐆𝐑𝐀𝐌
 
 Description: This console-based typing game helps users, especially students in IT-related fields, improve their typing skills.It measures accuracy, total words typed, and WPM. Players can choose how many rounds, and customize their experience with background music, and typing topics drawn from various media. 
